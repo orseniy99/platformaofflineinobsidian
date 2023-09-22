@@ -1,2 +1,0 @@
-# platformaofflineinobsidian
-Прочитайте readme.md
