@@ -16,7 +16,8 @@
 
 Ось доречі як Obsidian може візуалізувати усю українську документацію
 
-![[readme_pics/Pasted image 20230922175641.png]]![[readme_pics/Pasted image 20230922175703.png]]
+![[readme_pics/Pasted image 20230922175641.png]](readme_pics/Pasted image 20230922175641.png)
+![[readme_pics/Pasted image 20230922175703.png]](readme_pics/Pasted image 20230922175703.png)
 
 Трошки скріншотів про те чому варто це спробувати:
 ![[readme_pics/Pasted image 20230922180550.png]] 
