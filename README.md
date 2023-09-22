@@ -1,6 +1,7 @@
 Привіт. Хотілося поділитися (__похвалитися__) способом який дозволяє здійснювати набагато більш гнучкий та глибокий пошук ніж пропонує стандартний сьорчбар Платформи.  
 Необхідність в такому виникла після того, як мені знадобилося знайти усі згадування використання GET запиту у процесах Платформи а отримав я по суті:
-![[readme_pics/Pasted image 20230922173904.png]]
+
+![Pasted-image-20230922173904](https://i.ibb.co/k63vTsT/Pasted-image-20230922173904.png)
 
 *0 потрібних мені результатів*
 
@@ -16,28 +17,30 @@
 
 Ось доречі як Obsidian може візуалізувати усю українську документацію
 
-![[readme_pics/Pasted image 20230922175641.png]](readme_pics/Pasted image 20230922175641.png)
-![[readme_pics/Pasted image 20230922175703.png]](readme_pics/Pasted image 20230922175703.png)
+![Pasted-image-20230922175641](https://i.ibb.co/c6nKZ5t/Pasted-image-20230922175641.png)
+![Pasted-image-20230922175703](https://i.ibb.co/s9fb67d/Pasted-image-20230922175703.png)
 
 Трошки скріншотів про те чому варто це спробувати:
-![[readme_pics/Pasted image 20230922180550.png]] 
 
-![[readme_pics/Pasted image 20230922180658.png]]
-![[readme_pics/Pasted image 20230922180735.png]]
-![[readme_pics/Pasted image 20230922180941.png]]
-![[readme_pics/Pasted image 20230922181101.png]]
-![[readme_pics/Pasted image 20230922182220.png]]
+![Pasted-image-20230922180727](https://i.ibb.co/rxQmkgV/Pasted-image-20230922180727.png)
+![Pasted-image-20230922180658](https://i.ibb.co/Gcz3zX4/Pasted-image-20230922180658.png)
+
+![Pasted-image-20230922180941](https://i.ibb.co/4FCvfzq/Pasted-image-20230922180941.png)
+![Pasted-image-20230922181101](https://i.ibb.co/TPpGX7p/Pasted-image-20230922181101.png)
+![Pasted-image-20230922182220](https://i.ibb.co/1nbfBDy/Pasted-image-20230922182220.png)
+
 Я пропоную вам також спробувати цей інструмент в роботі. Зокрема рекомендую продивитися оце відео:
 https://youtu.be/DbsAQSIKQXk
+
 В ньому дуже гарно розповідається про Obsidian взагалі, не в контексті вирішення питання оптимізації пошуку. Я наразі якраз пробую використовувати його як головний інструмент ведення нотаток та особистих проектів.
 
 В цьому репозиторії буде zip архів який варто розархівувати. Отриману папку необхідно відкрити як Obsidian Vault.
 
-![[readme_pics/Pasted image 20230922175847.png]]
+![Pasted-image-20230922175847](https://i.ibb.co/1rPy6Dp/Pasted-image-20230922175847.png)
 
 Вуаля! Тепер ви можете насолоджуватися можливостями Obsidian.
 Окремо в пайтон скрипті я прописав так, щоб **вгорі** кожної сторінки був лінк на html-оригінал в документації.
-![[readme_pics/Pasted image 20230922180034.png]]
 
+![Pasted-image-20230922180034](https://i.ibb.co/WGQwPLF/Pasted-image-20230922180034.png)
 
 Дякую за увагу! Буду радий почути ваші коментарі та ідеї з покращення.
